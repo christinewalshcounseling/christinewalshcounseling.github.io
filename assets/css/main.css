@@ -179,6 +179,7 @@ input, select, textarea {
 	h2 {
 		font-size: 1.35em;
 		line-height: 1.75em;
+		font-family: "Lucida Handwriting";
 	}
 
 		@media screen and (max-width: 736px) {
@@ -207,6 +208,7 @@ input, select, textarea {
 	h4 {
 		font-size: 1em;
 		line-height: 1.5em;
+		font-family: "Bradley Hand";
 	}
 
 	h5 {
@@ -218,6 +220,7 @@ input, select, textarea {
 		font-size: 0.7em;
 		line-height: 1.5em;
 	}
+
 
 	sub {
 		font-size: 0.8em;
@@ -2980,8 +2983,14 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
+			/* Policy policies color */
+			background-color: #acc4e3;
+			color: #ffffff;			
+
+			/* Old colors below
 			background-color: #505393;
 			color: #d3d4e4;
+			*/
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
