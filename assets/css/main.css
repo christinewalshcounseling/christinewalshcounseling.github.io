@@ -2984,13 +2984,8 @@ input, select, textarea {
 
 		.wrapper.style3 {
 			/* Policy policies color */
-			background-color: #acc4e3;
-			color: #ffffff;			
-
-			/* Old colors below
-			background-color: #505393;
-			color: #d3d4e4;
-			*/
+			background-color: #72889e;
+			color: #ffffff; /* Text color */			
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
